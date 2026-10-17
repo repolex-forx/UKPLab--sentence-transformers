@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "sentence-transformers",
+  "versions": [
+    {
+      "commit": "1fa45b4212a53e7d6c8d3c2682f88743338179fb",
+      "tag": "",
+      "parsed_at": "2026-10-17T07:46:49.448341+00:00"
+    }
+  ]
+}
