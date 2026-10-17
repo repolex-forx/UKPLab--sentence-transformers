@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/sentence-transformers/commit/1fa45b4212a53e7d6c8d3c2682f88743338179fb",
       "git:hexsha": "1fa45b4212a53e7d6c8d3c2682f88743338179fb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/UKPLab/sentence-transformers/commit/7e5802c61ae72fc14f3d35859d590ca3af9c6ce5",
